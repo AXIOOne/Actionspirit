@@ -111,7 +111,7 @@ img {
   overflow: hidden;
   border: 3px solid rgba(255, 255, 255, 0.8);
   box-shadow: var(--shadow);
-  background: url("assets/hero.svg") center/cover no-repeat;
+  background: #1b4a66 url("assets/hero.svg") center/cover no-repeat;
   min-height: 560px;
   position: relative;
 }
