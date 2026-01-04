@@ -1,0 +1,9 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="600" fill="#ffe8c7"/>
+  <rect x="90" y="120" width="160" height="220" rx="30" fill="#ff9c6b"/>
+  <rect x="300" y="140" width="160" height="220" rx="30" fill="#ffb067"/>
+  <rect x="510" y="110" width="160" height="220" rx="30" fill="#ffcc7d"/>
+  <rect x="720" y="150" width="160" height="220" rx="30" fill="#ffa970"/>
+  <rect x="140" y="380" width="620" height="110" rx="40" fill="#ff7a1a"/>
+  <text x="190" y="450" font-family="'Segoe UI', sans-serif" font-size="32" fill="#fff">Team leadership & camaraderie</text>
+</svg>

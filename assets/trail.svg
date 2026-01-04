@@ -1,0 +1,7 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="600" fill="#cfe9c9"/>
+  <path d="M0 420C160 340 260 460 420 390C570 320 660 460 900 380V600H0V420Z" fill="#6aa86b"/>
+  <path d="M120 600C210 500 380 510 470 430C560 350 660 370 780 290" stroke="#c38b5f" stroke-width="26" fill="none" stroke-linecap="round"/>
+  <circle cx="760" cy="110" r="80" fill="#ffb067"/>
+  <text x="40" y="560" font-family="'Segoe UI', sans-serif" font-size="28" fill="#1f3d1f">Trail adventures</text>
+</svg>
