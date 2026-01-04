@@ -1,0 +1,7 @@
+<svg width="900" height="600" viewBox="0 0 900 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="600" fill="#a3d7ff"/>
+  <rect y="330" width="900" height="270" fill="#2f6f8e"/>
+  <circle cx="140" cy="140" r="70" fill="#ffd36f"/>
+  <path d="M0 340L130 270L280 340L420 250L600 340L740 280L900 340V600H0V340Z" fill="#275a76"/>
+  <text x="40" y="540" font-family="'Segoe UI', sans-serif" font-size="28" fill="#ffffff">Lakeside afternoons</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#5fa3f5"/>
+      <stop offset="100%" stop-color="#d5ecff"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffb24a"/>
+      <stop offset="100%" stop-color="#ff7a18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <circle cx="1300" cy="180" r="120" fill="url(#sun)"/>
+  <path d="M0 720L250 560L480 720L720 520L980 720L1220 590L1600 720V900H0V720Z" fill="#1c4d6d"/>
+  <path d="M0 780L280 620L520 780L820 560L1100 780L1340 640L1600 780V900H0V780Z" fill="#16384f"/>
+  <rect x="120" y="320" width="520" height="220" rx="40" fill="rgba(255,255,255,0.9)"/>
+  <text x="160" y="390" font-family="'Segoe UI', sans-serif" font-weight="700" font-size="58" fill="#0f2c3f">Actionspirit Camps</text>
+  <text x="160" y="450" font-family="'Segoe UI', sans-serif" font-size="32" fill="#0f2c3f">Adventure • Growth • Connection</text>
+  <text x="160" y="505" font-family="'Segoe UI', sans-serif" font-size="24" fill="#3c5260">Hero artwork placeholder</text>
+</svg>
